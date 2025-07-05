@@ -1,5 +1,6 @@
-*{
-    padding: 0; margin: 0
+* {
+  padding: 0;
+  margin: 0;
 }
 
 .location_detail {
@@ -7,21 +8,19 @@
   margin: 0 auto;
   padding: 80px 20px;
 }
-  
 
 .location_title {
-    font-size: 32px;
-    font-weight: 700;
-    text-align: center;
-    margin-bottom: 40px;
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 40px;
 }
-  
 
 .location_visual {
-    width: 100%;
-    margin-bottom: 40px;
+  width: 100%;
+  margin-bottom: 40px;
 }
-  
+
 .location_visual img {
   width: 100%;
   height: auto;
@@ -73,7 +72,7 @@
 .btn {
   padding: 8px 16px;
   font-size: 16px;
-  background-color: #4B2E1D;
+  background-color: #4b2e1d;
   color: #fff;
   border: none;
   border-radius: 999px;
@@ -82,12 +81,12 @@
 }
 
 .btn.dark {
-  background-color: #4B2E1D;
+  background-color: #4b2e1d;
 }
 
 .btn:hover,
 .btn.dark:hover {
-  background-color: #8f664a; 
+  background-color: #8f664a;
 }
 
 .divider {
@@ -110,7 +109,7 @@
 
 .bus_list li::before {
   content: "●";
-  color: #D9D9D9;
+  color: #d9d9d9;
   margin-right: 10px;
 }
 
